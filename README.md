@@ -1,4 +1,4 @@
-# Sistema de Gestión de Materiales y Herramientas para Obras
+## Sistema de Gestión de Materiales y Herramientas para Obras
 
 ## Descripción del proyecto
 
@@ -33,9 +33,13 @@ El prototipo estará orientado a:
 
 ## Declaración de uso de IA
 
-Se utilizarán herramientas de inteligencia artificial como apoyo para organizar la documentación, analizar alternativas y estructurar los componentes del proyecto. Los resultados generados serán revisados críticamente y adaptados a las necesidades reales de la empresa y a los requisitos del trabajo práctico.
+Durante el desarrollo del proyecto se utilizó ChatGPT como herramienta de apoyo para organizar la documentación, analizar alternativas y elaborar algunos elementos del trabajo.
 
-Se documentarán los prompts utilizados, las sugerencias aprovechadas y las correcciones realizadas manualmente, verificando que las decisiones finales sean coherentes con el alcance del sistema y los conocimientos adquiridos.
+Se utilizó como ayuda para estructurar la información del proyecto, desarrollar el diagrama del organigrama y mejorar la redacción y presentación de los contenidos.
+
+Las respuestas y sugerencias generadas fueron revisadas y adaptadas manualmente, teniendo en cuenta el funcionamiento real de la empresa, el alcance del prototipo y los requisitos del trabajo práctico. Las decisiones finales y las correcciones fueron realizadas por el estudiante.
+
+Los prompts utilizados, las sugerencias aprovechadas y las modificaciones realizadas se documentarán como parte del desarrollo del proyecto.
 
 ## Estado del proyecto
 
